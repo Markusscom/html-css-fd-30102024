@@ -1,0 +1,17 @@
+form {
+    width: 600px;
+   margin: auto;
+   text-align: center;
+   border: solid;
+   border-width: 1px;
+   border-color: black;
+}
+select {
+    width: 600px;
+}
+input {
+    width: 600px;
+}
+button {
+    width: 600px;
+}
