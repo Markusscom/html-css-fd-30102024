@@ -6,12 +6,15 @@ form {
    border-width: 1px;
    border-color: black;
 }
+* {
+    box-sizing: border-box;
+}
 select {
-    width: 600px;
+    width: 100%;
 }
 input {
-    width: 600px;
+    width: 100%;
 }
 button {
-    width: 600px;
+    width: 100%;
 }
